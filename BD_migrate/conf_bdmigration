@@ -1,0 +1,5 @@
+[param]
+month     = 202002
+dayrange  = 1,30
+movetype  = move_in
+output    = F:\\Data
